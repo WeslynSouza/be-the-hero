@@ -1,5 +1,5 @@
-<h1 align='center'>
-  Be The Hero
+<h1 align="center">
+    <img alt="Be The Hero" src="logo.svg" width="200px" />
 </h1>
 
 <p align="center">
@@ -26,12 +26,23 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Para acessar o layout utilize a ferramenta [figma](https://www.figma.com/file/N8HMunaoAybcg2b8Sqxi90/Untitled)
+<h1 align='center'>
+  <img alt="Be The Hero" src="print1.png" />
+  <img alt="Be The Hero" src="print2.png" />
+  <img alt="Be The Hero" src="print3.png" />
+</h1>
 
 ## 📌 Como executar
 
 ```sh
 git clone https://github.com/WeslynSouza/be-the-hero
+cd backend
+npm install
+npm start
+cd frontend
+npm install
+npm start
+cd mobile
 npm install
 npm start
 ```
