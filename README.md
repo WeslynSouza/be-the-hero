@@ -13,7 +13,7 @@
 
 ## 💻 Projeto
 
-A Fantastic Baby Store é uma loja de moda com foco em artigos de K-Pop, Geek e cultura pop no geral.
+O projeto é uma plataforma que tem como objetivo aproximar pessoas de ongs, facilitando o envio de doações a essas ongs, se tornando um heroi para os que precisam de ajuda.
 
 ## 🚀 Tecnologias
 
@@ -21,8 +21,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [ReactNative]
-- [Sqlite3]
+- [ReactNative](https://reactnative.dev)
+- [Sqlite3](https://www.sqlite.org/index.html)
 
 ## 🔖 Layout
 
@@ -31,7 +31,7 @@ Para acessar o layout utilize a ferramenta [figma](https://www.figma.com/file/N8
 ## 📌 Como executar
 
 ```sh
-git clone hhttps://github.com/WeslynSouza/FB-Store
+git clone https://github.com/WeslynSouza/be-the-hero
 npm install
 npm start
 ```
